@@ -3,16 +3,12 @@
 
 - 🔭 I’m currently working on **ChessBar's project**
 
-- 🌱 I’m currently learning **React, Node.JS & Express**
+- 🌱 I develop my skills with **React, Node.JS & Express**
 
-- 📫 How to reach me **danndieulouard@lapiscine.pro**
+- 📫 How to reach me **danndieulouard@gmail.com** & **https://www.linkedin.com/in/danndieulouard/**
 
 - ⚡ Fun fact **Chess players are the most dedicated!**
-
-<h3 align="left">ChessBar project:</h3>
-
-<img src="https://i.imgur.com/9bSWA69.png" alt="chessbarProject"> </img>
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dann-dieulouard-0403aa215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danndieulouard" height="30" width="40" /></a>
