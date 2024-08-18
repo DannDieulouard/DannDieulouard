@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dann Dieulouard</h1>
 <h3 align="center">A passionate full-stack developer from France</h3> 
 
-- 🔭 I’m currently working on **ChessBar's project**
+🔭 I’m currently working on **ChessBar's project**
 
-- 🌱 I develop my skills with **React, Node.JS & Express**
+🌱 I develop my skills with **React, Node.JS & Express**
 
-- 📫 How to reach me **danndieulouard@gmail.com** & **https://www.linkedin.com/in/danndieulouard/**
+📫 How to reach me **danndieulouard@gmail.com** & **https://www.linkedin.com/in/danndieulouard/**
 
-- ⚡ Fun fact **Chess players are the most dedicated!**
+⚡ Fun fact **Chess players are the most dedicated!**
 
 <h3 align="left">Connect with me </h3>
 <p align="left">
