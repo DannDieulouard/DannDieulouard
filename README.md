@@ -7,7 +7,7 @@
 
 📫 How to reach me **danndieulouard@gmail.com** & **https://www.linkedin.com/in/danndieulouard/**
 
-⚡ Fun fact **Chess players are the most dedicated!**
+⚡ Fun fact **Chess players are the most dedicated !**
 
 <h3 align="left">Connect with me </h3>
 <p align="left">
