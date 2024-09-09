@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dann Dieulouard</h1>
 <h3 align="center">A passionate full-stack developer from France</h3> 
 
+**My personal porfolio** https://danndieulouard.com
+
 🔭 **ChessBar's project** https://danndieulouard.github.io/chessbar/
 
 🌱 I develop my skills with **React, Node.JS & Express**
