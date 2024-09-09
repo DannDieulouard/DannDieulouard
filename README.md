@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dann Dieulouard</h1>
 <h3 align="center">A passionate full-stack developer from France</h3> 
-
-**My personal porfolio** https://danndieulouard.com
+<h4 align="center">**My personal porfolio** https://danndieulouard.com</h4> 
 
 🔭 **ChessBar's project** https://danndieulouard.github.io/chessbar/
 
