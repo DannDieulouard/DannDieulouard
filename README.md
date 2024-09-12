@@ -4,7 +4,7 @@
 
 🔭 **ChessBar's project** https://danndieulouard.github.io/chessbar/
 
-🌱 I develop my skills with **React, Node.JS & Express**
+🌱 I develop my skills with **React.js, Next.js, Node.js & Express**
 
 📫 How to reach me **danndieulouard@gmail.com** & **https://www.linkedin.com/in/danndieulouard/**
 
